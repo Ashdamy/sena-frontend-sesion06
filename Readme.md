@@ -1,6 +1,6 @@
-Evidencia — Sesión 04 Frontend
+Evidencia — Sesión 06 Frontend
 Fecha de entrega
-[03/05/2026]
+[18/05/2026]
 
 Nombre completo
 Santiago Restrepo Agudelo
